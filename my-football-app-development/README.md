@@ -1,5 +1,5 @@
 # Swarup's Football App
-- In this task, I was tasked with fetching an array of leagues from the api and displaying each league on the homepage. Also, when the user clicks on a particular league, the league table/standing table forthat league displays in the standing page.
+- In this task, I was asked with fetching an array of leagues from the api and displaying each league on the homepage. Also, when the user clicks on a particular league, the league table/standing table forthat league displays in the standing page.
 
 s
 
